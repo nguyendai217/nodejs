@@ -1,0 +1,28 @@
+{
+  "name": "com.dainguyen",
+  "version": "1.0.0",
+  "description": "demo nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon index.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyendai217/nodejs.git"
+  },
+  "keywords": [
+    "nodej"
+  ],
+  "author": "dainguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyendai217/nodejs/issues"
+  },
+  "homepage": "https://github.com/nguyendai217/nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
